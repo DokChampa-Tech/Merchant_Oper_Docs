@@ -1,2 +1,2 @@
-# Merchant_Oper_Docs
-This is a tutorial for merchant to create oper account and using oper account to partial match the slip
+# คู่มือสำหลับการสร้างบัญชีเข้าใช้งาน Merchant Oper และ การทำ Partial Match
+
