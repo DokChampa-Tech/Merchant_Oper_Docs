@@ -9,7 +9,7 @@
 
 3. เลือก "จัดการผู้ใช้งาน" จากแถบเมนูด้านซ้าย.
 
-![3](/assets/manageUserButton.png)
+![3](/assets/mannageUserButton.png)
    
 5. กดที่ "ผู้ใช้งาน" เพื่อไปยังหน้ารายการผู้ใช้งาน.
 6. กดที่ "NEW USER".
