@@ -9,7 +9,7 @@
 
 3. เลือก "**จัดการผู้ใช้งาน**" จากแถบเมนูด้านซ้าย.
 
-![3](/assets/mannageUserButton.png)
+![3](/assets/manageUserButton.png)
    
 4. กดที่ "**ผู้ใช้งาน**" เพื่อไปยังหน้ารายการผู้ใช้งาน.
 
@@ -18,3 +18,7 @@
 5. กดที่ "**NEW USER**".
 
 ![5](/assets/newUserButton.png)
+
+6. จากนั้นให้กดที่ "**Role**" แล้วเลือก "**merchantoper**".
+
+![6](/assets/selectRole.png)
