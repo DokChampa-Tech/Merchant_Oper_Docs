@@ -61,6 +61,6 @@
 
    ![used Slip](/assets/usedSlip.png)
 
-* สลิปการโอนเงินไม่มี QR Code สำหลับตรวจสอบ (อาจเป็นสลิปปลอม).
+* สลิปการโอนเงินไม่มี QR Code สำหรับตรวจสอบ (อาจเป็นสลิปปลอม).
 
    ![wrong Slip](/assets/noQrSlip.png)
