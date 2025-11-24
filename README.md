@@ -29,3 +29,7 @@
 ![7-8](/assets/inputUser.png)
 
 * ## การทำ Partial Match ด้วยสลิปการโอนเงินจากลูกค้า
+1. ทำการป้อนข้อมูลสำหรับเข้าสู่ระบบ Back Office ด้วยรหัส Oper ที่สร้าง.
+2. จากนั้นให้กด "**Sign In With Email And Password**" เพื่อเข้าสู่ระบบ.
+
+![1-2](/assets/loginOper.png)
