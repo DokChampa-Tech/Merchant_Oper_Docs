@@ -38,8 +38,10 @@
 ![1-2](/assets/loginOper.png)
 
 3. เลือก "**ธุรกรรม ฝาก/ถอน**" จากแถบเมนูด้านซ้าย.
-![3](/assets/transaction.png)
+
+   ![3](/assets/transaction.png)
 
 
-4. กดที่ "**ฝาก**" เพื่อไปยังหน้ารายการฝาก.
-![4](/assets/deposit.png)
+5. กดที่ "**ฝาก**" เพื่อไปยังหน้ารายการฝาก.
+
+   ![4](/assets/deposit.png)
