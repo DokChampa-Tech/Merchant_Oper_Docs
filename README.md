@@ -4,10 +4,10 @@
 1. ทำการป้อนข้อมูลสำหรับเข้าสู่ระบบ Back Office ของร้านค้า.
 2. จากนั้นให้กด "Sign In With Email And Password" เพื่อเข้าสู่ระบบ.
 
-![1-2](/assets/newUserButton.png)
+![1-2](/assets/login.png)
 
 3. เลือก "จัดการผู้ใช้งาน" จากแถบเมนูด้านซ้าย.
 4. กดที่ "ผู้ใช้งาน" เพื่อไปยังหน้ารายการผู้ใช้งาน.
 5. กดที่ "NEW USER".
 
-![New User Button](/assets/newUserButton.png)
+![5](/assets/newUserButton.png)
