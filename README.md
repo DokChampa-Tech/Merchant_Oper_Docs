@@ -15,7 +15,7 @@
 
 ![4](/assets/userButton.png)
 
-5. กดที่ "**NEW USER**".
+5. กดที่ "**NEW USER**" ที่มุมขวาบน.
 
 ![5](/assets/newUserButton.png)
 
@@ -36,3 +36,7 @@
 2. จากนั้นให้กด "**Sign In With Email And Password**" เพื่อเข้าสู่ระบบ.
 
 ![1-2](/assets/loginOper.png)
+
+3. เลือก "**ธุรกรรม ฝาก/ถอน**" จากแถบเมนูด้านซ้าย.
+
+![3](/assets/transaction.png)
