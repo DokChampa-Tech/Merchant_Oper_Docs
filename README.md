@@ -51,11 +51,16 @@
    ![4](/assets/deposit.png)
 
 > [!CAUTION]
-> กรณีที่เกิดจากสลิปการโอนเงินไม่ถูกต้อง.
+> กรณีที่เกิดจากสลิปการโอนเงินที่ไม่ถูกต้อง.
 
 * สลิปการโอนไม่ตรงกับรายการที่ฝากเข้ามา.
+
    ![wrong Slip](/assets/wrongSlip.png)
+  
 * สลิปการโอนถูกใช้ช้ำ.
+
    ![used Slip](/assets/usedSlip.png)
+
 * สลิปไม่มี QR Code เพื่อตรวจสอบ (อาจเป็นสลิปปลอม).
+
    ![wrong Slip](/assets/noQrSlip.png)
