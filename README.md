@@ -58,4 +58,4 @@
 * สลิปการโอนถูกใช้ช้ำ.
    ![used Slip](/assets/usedSlip.png)
 * สลิปไม่มี QR Code เพื่อตรวจสอบ (อาจเป็นสลิปปลอม).
-   ![wrong Slip](/assets/wrongSlip.png)
+   ![wrong Slip](/assets/noQrSlip.png)
