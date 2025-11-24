@@ -11,7 +11,10 @@
 
 ![3](/assets/mannageUserButton.png)
    
-5. กดที่ "ผู้ใช้งาน" เพื่อไปยังหน้ารายการผู้ใช้งาน.
-6. กดที่ "NEW USER".
+4. กดที่ "ผู้ใช้งาน" เพื่อไปยังหน้ารายการผู้ใช้งาน.
+
+![4](/assets/userButton.png)
+
+5. กดที่ "NEW USER".
 
 ![5](/assets/newUserButton.png)
