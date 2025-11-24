@@ -5,28 +5,28 @@
 1. ทำการป้อนข้อมูลสำหรับเข้าสู่ระบบ Back Office ของร้านค้า.
 2. จากนั้นให้กด "**Sign In With Email And Password**" เพื่อเข้าสู่ระบบ.
 
-![1-2](/assets/login.png)
+   ![1-2](/assets/login.png)
 
 3. เลือก "**จัดการผู้ใช้งาน**" จากแถบเมนูด้านซ้าย.
 
-![3](/assets/manageUserButton.png)
+   ![3](/assets/manageUserButton.png)
    
 4. กดที่ "**ผู้ใช้งาน**" เพื่อไปยังหน้ารายการผู้ใช้งาน.
 
-![4](/assets/userButton.png)
+   ![4](/assets/userButton.png)
 
 5. กดที่ "**NEW USER**" ที่มุมขวาบน.
 
-![5](/assets/newUserButton.png)
+   ![5](/assets/newUserButton.png)
 
 6. จากนั้นให้กดที่ "**Role**" แล้วเลือก "**merchantoper**".
 
-![6](/assets/selectRole.png)
+   ![6](/assets/selectRole.png)
 
 7. ให้ทำการป้อนข้อมูลของผู้ใช้งานให้ครบถ้วน.
 8. ทำการกด "**บันทึก**" เพื่อเสร็จสิ้น.
 
-![7-8](/assets/inputUser.png)
+   ![7-8](/assets/inputUser.png)
 
 * ## การทำ Partial Match ด้วยสลิปการโอนเงินจากลูกค้า
 > [!IMPORTANT]
@@ -35,13 +35,13 @@
 1. ทำการป้อนข้อมูลสำหรับเข้าสู่ระบบ Back Office ด้วยรหัส Oper ที่สร้าง.
 2. จากนั้นให้กด "**Sign In With Email And Password**" เพื่อเข้าสู่ระบบ.
 
-![1-2](/assets/loginOper.png)
+   ![1-2](/assets/loginOper.png)
 
 3. เลือก "**ธุรกรรม ฝาก/ถอน**" จากแถบเมนูด้านซ้าย.
 
-      ![3](/assets/transaction.png)
+   ![3](/assets/transaction.png)
 
 
 5. กดที่ "**ฝาก**" เพื่อไปยังหน้ารายการฝาก.
 
-      ![4](/assets/deposit.png)
+   ![4](/assets/deposit.png)
